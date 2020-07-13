@@ -5,7 +5,7 @@ Discord Bot list
 =================
 </div>
 
-
+[![Run on Repl.it](https://repl.it/badge/github/Sank6/Discord-Bot-List)](https://repl.it/github/Sank6/Discord-Bot-List)
 # About
 This botlist is discontinued and no longer exists. Feel free to host your own instance of it.
 ![Front Page](/screenshots/front.png?raw=true "Front Page")
